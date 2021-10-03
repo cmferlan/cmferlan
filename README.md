@@ -2,8 +2,7 @@
 
 - University of Pittsburgh Class of 2023, Computer Science major + Japanese minor
 - He/him
-- Languages: Java, C, Python, (some) HTML
-- Interests: learning new things, language techonology, game development/modification
+- Languages: Java, C, (some) Python, (some) HTML/CSS
 
 <!--
 **cmferlan/cmferlan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
