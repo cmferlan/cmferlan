@@ -2,7 +2,7 @@
 
 - University of Pittsburgh Class of 2023, Computer Science major + Japanese minor
 - He/him
-- Languages: Java, C, (some) Python, (some) HTML/CSS
+- Languages/Frameworks I've used: Java, JavaScript/TypeScript, React, Redux, HTML, CSS, C, (some) Python, (some) Rust
 
 <!--
 **cmferlan/cmferlan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
